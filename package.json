@@ -1,0 +1,22 @@
+{
+  "name": "book-shop-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bootstrap": "^5.3.0-alpha3",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "json-server": "^0.17.3",
+    "vite": "^4.3.2"
+  }
+}
